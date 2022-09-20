@@ -1,0 +1,62 @@
+body {
+    margin:30px;
+    background-color:lightblue;
+    color:Darkblue;
+    front-family:"verdana";
+    font-size:18px;
+  }
+  #Socials{
+    background-color:rgba(55,55,55,0.6);
+    margin:0px
+    
+  }
+  #introudction{
+  background-color:rgb(255,0,0);
+  color:Darkblue;
+  fr
+  }
+  div {
+    background-color:rgba (255,255,0.6);
+    padding:30px;
+    margin-bottom:30px;
+    margin-left:25vw;
+    width:50vw;
+    color: red
+  }
+  .common{
+    background-color:(255,25,0.6);
+  }
+  
+  h1{
+    font-size:3em;
+  }
+  span{
+    font-style:italic;
+    color:white;
+  }
+  p{
+    color:rgb(0,0,0);
+    background-color:red;
+    padding:20px;
+    padding-bottom:50px;
+    margin-bottom:100px;
+  }
+  
+  ol {
+    background-color:white;
+    
+  }
+  img{
+    width:100%;
+  }
+  
+  a {
+    color:black;
+    tex-decoration:none;
+  }
+  a:hover{
+    text-decoration:underline;
+  }
+  a:visited{
+    color:black;
+  }
